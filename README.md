@@ -1,13 +1,13 @@
-# Create React App [![Build Status](https://dev.azure.com/facebook/create-react-app/_apis/build/status/facebook.create-react-app?branchName=main)](https://dev.azure.com/facebook/create-react-app/_build/latest?definitionId=1&branchName=main) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/main/CONTRIBUTING.md)
+# Redux + Router React Template
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
-Create React apps with no build configuration.
+Redux + Router React Templates with no build configuration.
 
 - [Creating an App](#creating-an-app) – How to create a new app.
-- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
+- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Redux + Router React Template.
 
-Create React App works on macOS, Windows, and Linux.<br>
+Redux + Router React Template works on macOS, Windows, and Linux.<br>
 If something doesn’t work, please [file an issue](https://github.com/facebook/create-react-app/issues/new).<br>
 If you have questions or need help, please ask in [GitHub Discussions](https://github.com/facebook/create-react-app/discussions).
 
@@ -130,7 +130,7 @@ Your app is ready to be deployed.
 
 ## User Guide
 
-You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
+You can find detailed instructions on using Redux + Router React Template and many tips in [its documentation](https://facebook.github.io/create-react-app/).
 
 ## How to Update to New Versions?
 
@@ -163,7 +163,7 @@ The tradeoff is that **these tools are preconfigured to work in a specific way**
 
 ## Popular Alternatives
 
-Create React App is a great fit for:
+Redux + Router React Template is a great fit for:
 
 - **Learning React** in a comfortable and feature-rich development environment.
 - **Starting new single-page React applications.**
@@ -177,9 +177,9 @@ Here are a few common cases where you might want to try something else:
 
 - If you need to **publish a React component**, [nwb](https://github.com/insin/nwb) can [also do this](https://github.com/insin/nwb#react-components-and-libraries), as well as [Neutrino's react-components preset](https://neutrino.js.org/packages/react-components/).
 
-- If you want to do **server rendering** with React and Node.js, check out [Next.js](https://nextjs.org/) or [Razzle](https://github.com/jaredpalmer/razzle). Create React App is agnostic of the backend, and only produces static HTML/JS/CSS bundles.
+- If you want to do **server rendering** with React and Node.js, check out [Next.js](https://nextjs.org/) or [Razzle](https://github.com/jaredpalmer/razzle). Redux + Router React Template is agnostic of the backend, and only produces static HTML/JS/CSS bundles.
 
-- If your website is **mostly static** (for example, a portfolio or a blog), consider using [Gatsby](https://www.gatsbyjs.org/) or [Next.js](https://nextjs.org/). Unlike Create React App, Gatsby pre-renders the website into HTML at build time. Next.js supports both server rendering and pre-rendering.
+- If your website is **mostly static** (for example, a portfolio or a blog), consider using [Gatsby](https://www.gatsbyjs.org/) or [Next.js](https://nextjs.org/). Unlike Redux + Router React Template, Gatsby pre-renders the website into HTML at build time. Next.js supports both server rendering and pre-rendering.
 
 - Finally, if you need **more customization**, check out [Neutrino](https://neutrino.js.org/) and its [React preset](https://neutrino.js.org/packages/react/).
 
@@ -196,9 +196,9 @@ Check out [Expo CLI](https://github.com/expo/expo-cli).
 
 We'd love to have your helping hand on `create-react-app`! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
 
-## Supporting Create React App
+## Supporting Redux + Router React Template
 
-Create React App is a community maintained project and all contributors are volunteers. If you'd like to support the future development of Create React App then please consider donating to our [Open Collective](https://opencollective.com/create-react-app).
+Redux + Router React Template is a community maintained project and all contributors are volunteers. If you'd like to support the future development of Redux + Router React Template then please consider donating to our [Open Collective](https://opencollective.com/create-react-app).
 
 ## Credits
 
@@ -217,4 +217,4 @@ We are grateful to the authors of existing related projects for their ideas and 
 
 ## License
 
-Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/main/LICENSE). The Create React App logo is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
+Redux + Router React Template is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/main/LICENSE). The Redux + Router React Template logo is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
